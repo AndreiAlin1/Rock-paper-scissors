@@ -30,6 +30,6 @@ Generează o mișcare aleatorie pentru calculator bazată pe o valoare aleatoare
 ![image](https://github.com/user-attachments/assets/9df8cd8b-808a-42f1-a4ef-032881fd7cc9)
 
 
--**Prin apasarea butoul "Reset Score" -> scorul se va reseta la 0.
+-**Prin apasarea butoul "Reset Score"** -> scorul se va reseta la 0.
 
 ![image](https://github.com/user-attachments/assets/ccc2226f-f3c0-4791-887d-46a1bc7fa4ce)
